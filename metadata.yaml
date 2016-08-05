@@ -1,0 +1,48 @@
+_repo: A-Dreamer-s-Tales_8129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: "A Dreamer's Tales is the fifth book by Irish fantasy writer Lord Dunsany,\
+  \ considered a major influence on the work of J. R. R. Tolkien, H. P. Lovecraft,\
+  \ Ursula K. Le Guin and others. It was first published in hardcover by George Allen\
+  \ & Sons in September, 1910, and has been reprinted a number of times since. Issued\
+  \ by the Modern Library in a combined edition with The Sword of Welleran and Other\
+  \ Stories as A Dreamer's Tales and Other Stories in 1917.\nThe book is actually\
+  \ Dunsany's fourth major work, as his preceding book, The Fortress Unvanquishable,\
+  \ Save for Sacnoth (March, 1910), was a chapbook reprinting a single story from\
+  \ his earlier collection The Sword of Welleran and Other Stories (October, 1908).\n\
+  In common with most of Dunsany's early books, A Dreamer's Tales is a collection\
+  \ of fantasy short stories.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8129'
+  wikidata: Q4656595
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Poltarnees, Beholder of Ocean -- Blagdaross -- The madness of Andelsprutz
+  -- Where the tides ebb and flow -- Bethmoora -- Idle days on the Yann -- The sword
+  and the idol -- The idle city -- The hashish man -- Poor old Bill -- The beggars
+  -- Carcassonne -- In Zaccarath -- The field -- The day of the poll -- The unhappy
+  body.
+title: A Dreamer's Tales
+url: http://www.gutenberg.org/ebooks/8129
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Dreamer%27s_Tales
