@@ -1,5 +1,8 @@
 _repo: A-Dreamer-s-Tales_8129
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunsany, Lord
@@ -22,6 +25,8 @@ description: "A Dreamer's Tales is the fifth book by Irish fantasy writer Lord D
   \ his earlier collection The Sword of Welleran and Other Stories (October, 1908).\n\
   In common with most of Dunsany's early books, A Dreamer's Tales is a collection\
   \ of fantasy short stories.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8129#A-Dreamer-s-Tales
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
